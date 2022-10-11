@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b27edd4-bcb9-41f2-a58c-662e9cfa3bfe" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\My Environment configuration\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CzCLbwRPMavfAh8mH5lBXUWYIP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - USTC\WorkPlace\Java\CodeExercise\out" />
+      <recent name="D:\OneDrive - USTC\WorkPlace\Java\CodeExercise\Leetcode\src" />
+      <recent name="D:\OneDrive - USTC\WorkPlace\Java\CodeExercise\Leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - USTC\WorkPlace\Java\CodeExercise\src" />
+      <recent name="D:\OneDrive - USTC\WorkPlace\Java\CodeExercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main (1)">
+    <configuration name="JAVA17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA17" />
+      <module name="nowCoder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAVA22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA22" />
+      <module name="nowCoder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAVA29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA29" />
+      <module name="nowCoder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="nowCoder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.JAVA29" />
+        <item itemvalue="应用程序.JAVA22" />
+        <item itemvalue="应用程序.JAVA17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8b27edd4-bcb9-41f2-a58c-662e9cfa3bfe" name="变更" comment="" />
+      <created>1659795974377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659795974377</updated>
+      <workItem from="1659795975915" duration="5086000" />
+      <workItem from="1659842396830" duration="11932000" />
+      <workItem from="1660036761767" duration="2326000" />
+      <workItem from="1660098370846" duration="3048000" />
+      <workItem from="1660115673107" duration="2000" />
+      <workItem from="1660115747352" duration="3553000" />
+      <workItem from="1660554787889" duration="3312000" />
+      <workItem from="1660639105892" duration="10375000" />
+      <workItem from="1661267619920" duration="3027000" />
+      <workItem from="1661340835115" duration="3303000" />
+      <workItem from="1661344196583" duration="4042000" />
+      <workItem from="1661394259722" duration="6061000" />
+      <workItem from="1661481446874" duration="2329000" />
+      <workItem from="1661501846423" duration="12025000" />
+      <workItem from="1661584986245" duration="3082000" />
+      <workItem from="1661776816263" duration="6595000" />
+      <workItem from="1661856361833" duration="652000" />
+      <workItem from="1662034766416" duration="2378000" />
+      <workItem from="1662086440673" duration="708000" />
+      <workItem from="1662088982660" duration="370000" />
+      <workItem from="1662089393065" duration="890000" />
+      <workItem from="1662090376170" duration="197000" />
+      <workItem from="1662090613123" duration="387000" />
+      <workItem from="1662091042384" duration="232000" />
+      <workItem from="1662091302268" duration="335000" />
+      <workItem from="1662091893785" duration="649000" />
+      <workItem from="1662262751733" duration="876000" />
+      <workItem from="1662267641403" duration="82000" />
+      <workItem from="1662620890381" duration="649000" />
+      <workItem from="1662622424456" duration="135000" />
+      <workItem from="1662691859510" duration="1914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
